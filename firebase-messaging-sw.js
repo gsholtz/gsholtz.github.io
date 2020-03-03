@@ -6,7 +6,7 @@
  });
 
  const messaging = firebase.messaging();
- const applicationKey = '6026:rSbUDSvcBAazAlRlW4JpE5QKOg3qWxma';
+ const applicationKey = '8507:MQ9CPafbnVWtfY8sZ3ptFJbIW3TUw5ms';
 
 messaging.setBackgroundMessageHandler(function(payload) 
 {
